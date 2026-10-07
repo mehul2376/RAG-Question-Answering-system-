@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.virtual_documents/
+anaconda_projects/
+pdf/vector_store/
+__pycache__/
+.env
+
+
